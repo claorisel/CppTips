@@ -7,7 +7,7 @@
 | Kirill75 |- | - | - | - |
 | olikke  | done | done | done | - |
 | BairaMolotkova |- | - | - | - |
-| DmitriyPL | in progress | in progress | done | - |
+| DmitriyPL | done | in progress | done | - |
 | zloirucar |- | - | - | - |
 | dolphinfx | in progress | - | - | - |
 | DmitriyZaharov | done | - | - | - |
