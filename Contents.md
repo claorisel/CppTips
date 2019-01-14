@@ -1,5 +1,5 @@
 ## Часть 1. Основы С++
-1.  [Hello world / знакомство с языком]()
+1.  [Hello world / знакомство с языком](https://github.com/claorisel/1-introduce-to-cpp)
     * git - знакомство
     * Hello/world
     * Основные типы данных 
