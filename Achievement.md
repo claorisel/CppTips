@@ -9,7 +9,7 @@
 | BairaMolotkova |- | - | - | - | - |
 | DmitriyPL | done | in progress | done | - | - |
 | zloirucar | done | - | - | - |- |
-| dolphinfx | in progress | - | - | - |- |
+| dolphinfx | in progress | in progress | - | - |- |
 | DmitriyZaharov | done | - | - | - |- |
 | heavyC1oud | done | done | done | - |- |
 | dariasultanova | done | - | - | - |- |
