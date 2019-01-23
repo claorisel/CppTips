@@ -11,7 +11,7 @@
 | zloirucar | done | - | - | - |- |
 | dolphinfx | in progress | in progress | - | - |- |
 | DmitriyZaharov | done | - | - | - |- |
-| heavyC1oud | done | done | done | - |- |
+| heavyC1oud | done | done | done | in progress |- |
 | dariasultanova | done | - | - | - |- |
 | Mikhail0708| in progress | in progress | - | - |- |
 | llOzzeell | done | done | done | in progress | done |
