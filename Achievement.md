@@ -3,7 +3,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | tervuu | - | - | - | - | - | - | - |
 | lepag-jun | done | done | done | in progress | done | - | - |
-| mgrunfiter | done | done | done | in progress | done | - | done |
+| mgrunfiter | done | done | done | in progress | done | in progress | done |
 | Kirill75 |- | - | - | - | - | - | - |
 | olikke  | done | done | done | - | done | - | - |
 | BairaMolotkova |- | - | - | - | - | - | - |
