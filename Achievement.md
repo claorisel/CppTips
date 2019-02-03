@@ -8,7 +8,7 @@
 | olikke  | done | done | done | - | done | - | - |
 | BairaMolotkova |- | - | - | - | - | - | - |
 | DmitriyPL | done | done | done | - | done | - | - |
-| zloirucar | done | - | - | - |- | - | - |
+| zloirucar | done | done | in progress | - |- | - | - |
 | dolphinfx | in progress | in progress | - | - |- | - | - |
 | DmitriyZaharov | done | - | - | - |- | - | - |
 | heavyC1oud | done | done | done | in progress |- | - | - |
