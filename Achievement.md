@@ -5,13 +5,13 @@
 | lepag-jun | done | done | done | in progress | done | - | - |
 | mgrunfiter | done | done | done | in progress | done | in progress | done |
 | Kirill75 |- | - | - | - | - | - | - |
-| olikke  | done | done | done | - | done | - | - |
-| BairaMolotkova |- | - | - | - | - | - | - |
+| olikke  | done | done | done | - | done | - | done |
+| BairaMolotkova | done | - | - | - | - | - | - |
 | DmitriyPL | done | done | done | - | done | - | - |
 | zloirucar | done | done | in progress | - |- | - | - |
 | dolphinfx | in progress | in progress | - | - |- | - | - |
 | DmitriyZaharov | done | - | - | - |- | - | - |
-| heavyC1oud | done | done | done | in progress |- | - | - |
+| heavyC1oud | done | done | done | in progress | done | - | - |
 | dariasultanova | done | - | - | - |- | - | - |
 | Mikhail0708| in progress | in progress | - | - |- | - | - |
 | llOzzeell | done | done | done | in progress | done | - | - |
