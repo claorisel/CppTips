@@ -10,7 +10,7 @@
 | DmitriyPL | done | done | done | - | done | in progress | done |
 | zloirucar | done | done | in progress | - |done | - | - |
 | dolphinfx | in progress | in progress | - | - |- | - | - |
-| DmitriyZaharov | done | - | - | - |- | - | done |
+| DmitriyZaharov | done | - | - | - |done | - | done |
 | heavyC1oud | done | done | done | in progress | done | - | - |
 | dariasultanova | done | - | - | - |- | - | - |
 | Mikhail0708| in progress | in progress | - | - |- | - | - |
