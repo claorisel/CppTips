@@ -7,10 +7,10 @@
 | Kirill75 |- | - | - | - | - | - | - |
 | olikke  | done | done | done | - | done | - | done |
 | BairaMolotkova | done | - | - | - | - | - | - |
-| DmitriyPL | done | done | done | - | done | - | - |
+| DmitriyPL | done | done | done | - | done | in progress | done |
 | zloirucar | done | done | in progress | - |done | - | - |
 | dolphinfx | in progress | in progress | - | - |- | - | - |
-| DmitriyZaharov | done | - | - | - |- | - | - |
+| DmitriyZaharov | done | - | - | - |- | - | done |
 | heavyC1oud | done | done | done | in progress | done | - | - |
 | dariasultanova | done | - | - | - |- | - | - |
 | Mikhail0708| in progress | in progress | - | - |- | - | - |
