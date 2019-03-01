@@ -12,7 +12,7 @@
 | dolphinfx | in progress | in progress | - | - |- | - | - |
 | DmitriyZaharov | done | - | - | - |done | - | done |
 | heavyC1oud | done | done | done | in progress | done | - | - |
-| dariasultanova | done | - | - | - |- | - | - |
+| dariasultanova | done | done | done | - |- | - | - |
 | Mikhail0708| in progress | in progress | - | - |- | - | - |
 | llOzzeell | done | done | done | in progress | done | - | done |
 |lena-aktau | in progress | in progress | - | - | - | - | - |
